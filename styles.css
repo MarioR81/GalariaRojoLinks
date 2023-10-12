@@ -1,0 +1,128 @@
+body {
+    background-color: grey;
+    color: black;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 2px;
+}
+
+.profile-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    height: auto;
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+.profile-name {
+    text-align: center;
+    padding: 30px;
+    font-size: 38px;
+}
+
+.links {
+    background-color: rgb(128,0,0);
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: color 1s;
+}
+
+a:hover {
+    color: black;
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+    background-color: grey;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.container {
+    width: 91%;
+    max-width: 100px;
+    margin-top: 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+
+.tile {
+    width: 100%;
+    height: 56px;
+    background-color: red;
+    margin-top: 20px;
+    border-radius: 17px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+.tile-font {
+    color: pink;
+} */
+
+/* .image-container {
+    height: 96px;
+    width: 96px;
+    border-radius: 48px;
+    overflow: hidden;
+}
+
+.image-container img {
+    height: 100%;
+}
+
+footer {
+    font-size: 12px;
+    margin-top: 10px;
+} */
